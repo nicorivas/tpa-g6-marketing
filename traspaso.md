@@ -1,29 +1,13 @@
 # Traspaso
 
-Responde las seis preguntas del equipo con IA, con lo que hay en este repositorio. Si una no se puede responder con lo que hay, escríbelo.
+Nota para quien siga este trabajo, sea una persona o una sesión nueva de Claude sin memoria. Tiene que entenderse sola, terminar con un paso concreto y decir lo que no se sabe.
 
-## Responsabilidad
-¿Quién es dueño del reporte y quién aprueba los cambios de reglas?
+## Qué cambió
 
-## Acceso
-¿Quién puede ver y editar qué?
+## Qué quedó pendiente
 
-## Coordinación
-¿Cómo se avisan los cambios?
+## Qué decidimos y por qué
 
-## Calidad
-¿Cómo se revisa antes de aceptar?
+## Qué no hay que tocar
 
-## Visibilidad
-¿Dónde se ve el estado?
-
-## Riesgo
-¿Qué puede salir mal y quién decide?
-
-### Qué no hay que tocar
-
-### Siguiente paso
-
-## Para el grupo
-- La pregunta que más nos costó:
-- La pregunta que no pudimos responder con lo que hay en el repositorio:
+## Cuál es el siguiente paso

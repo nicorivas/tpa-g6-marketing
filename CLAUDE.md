@@ -22,7 +22,7 @@ Este repositorio es el proyecto del reporte de métricas del equipo de marketing
 - Usar listas con guion.
 - Escribir los montos en pesos chilenos, sin decimales.
 - Revisar la ortografía antes de terminar.
-- Preguntar cuando algo no esté claro.
+- Si algo no está claro y no hay quien responda, decidir y declarar la suposición en el texto del pull request.
 - Respetar el estilo de los demás archivos.
 - No cambiar archivos que no tengan relación con la tarea.
 
